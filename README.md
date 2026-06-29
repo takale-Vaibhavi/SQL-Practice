@@ -33,14 +33,14 @@ The practice uses a custom Sales dataset created using SQL.
 
 ## Repository Structure
 
-database_setup.sql
-01_Basic_SQL.sql
-02_Aggregate_Functions.sql
-03_CASE_Statements.sql
-04_Subqueries.sql
-05_Date_Functions.sql
-06_Window_Functions.sql
-07_Joins.sql
+- database_setup.sql
+- 01_Basic_SQL.sql
+- 02_Aggregate_Functions.sql
+- 03_CASE_Statements.sql
+- 04_Subqueries.sql
+- 05_Date_Functions.sql
+- 06_Window_Functions.sql
+- 07_Joins.sql
 
 ## Total Questions
 
